@@ -1,4 +1,8 @@
-﻿using DesafioPOO.Models;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using DesafioPOO.Models;
 
 // TODO: Realizar os testes com as classes Nokia e Iphone
 
